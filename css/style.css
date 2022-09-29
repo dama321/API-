@@ -1,0 +1,18 @@
+/* h1,
+h2 {
+  font-family: Lato;
+} */
+
+/* ! 29/09/2022 Классная работа. */
+.img {
+  width: 100px;
+  height: 80px;
+}
+
+table {
+  border: 1px solid black;
+}
+td {
+  border: 1px solid black;
+  text-align: center;
+}
